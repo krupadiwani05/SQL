@@ -1,0 +1,14 @@
+transaction_id,Account_id,Account_type,Transaction_amount,Transation_type,App,Balance_amount
+234,123454,Saving,2300,Credit,Bank App,32090
+235,123454,Saving,3456,Debit,Google Pay,34000
+236,123454,Current,54123,Debit,Phone Pay,21000
+237,123457,Current,5764,Debit,PayTM,2134
+238,123457,Saving,3987,Debit,Google Pay,8909
+239,123457,Saving,43098,Credit,Phone Pay,5460
+240,123457,Saving,50000,Credit,Bank App,32000
+241,123459,Current,1234,Credit,Google Pay,320909
+242,123456,Current,432,Debit,Google Pay,100000
+243,123456,Saving,5678,Debit,Google Pay,12340
+244,123460,Saving,1230,Credit,ATM,43090
+245,123458,Current,4309,Credit,ATM,12345
+246,123458,Current,3456,Credit,ATM,54090
