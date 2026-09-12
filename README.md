@@ -1,63 +1,32 @@
-# SQL Complete Practice Portfolio
+# 📊 SQL
 
-## Project Overview
+This repository contains my **SQL practice, queries, and data analysis projects**.
 
-This repository contains SQL practice queries covering beginner to advanced SQL concepts. The project demonstrates database creation, table management, data manipulation, filtering, joins, subqueries, views, window functions, and analytical SQL techniques.
+## 📚 Topics Covered
 
-## Topics Covered
+* DDL, DML & DQL
+* SQL Clauses & Operators
+* Aggregate Functions
+* String & Conditional Functions
+* GROUP BY & HAVING
+* Joins
+* Subqueries
+* Window Functions
+* Views
+* Data Analysis using SQL
 
-- DDL Commands
-  - CREATE
-  - ALTER
-  - DROP
-  - TRUNCATE
+## 🚀 Projects
 
-- DML Commands
-  - INSERT
-  - UPDATE
-  - DELETE
+### 🏎️ Formula 1 World Championship (1950–2024)
 
-- Data Retrieval
-  - SELECT
-  - WHERE
-  - ORDER BY
-  - LIMIT
-  - OFFSET
+SQL analysis of Formula 1 data covering drivers, constructors, races, circuits, results, and qualifying performance.
 
-- Filtering
-  - IN
-  - BETWEEN
-  - LIKE
-  - CASE
+**Dataset:** 38,650 records
 
-- Aggregation
-  - COUNT
-  - SUM
-  - AVG
-  - MIN
-  - MAX
-  - GROUP BY
-  - HAVING
+## 🎯 Purpose
 
-- Functions
-  - Mathematical Functions
-  - String Functions
-  - Date Functions
+This repository is created to **practice SQL concepts and apply them to real-world datasets** while developing data analysis and query-writing skills.
 
-- Advanced SQL
-  - Joins
-  - Subqueries
-  - Views
-  - Window Functions
+## 🔍 Explore the Project
 
-## Project Structure
-
-SQL Files contain topic-wise SQL scripts.
-
-Datasets folder contains datasets used for query execution and practice.
-
-## Tools Used
-
-- MySQL
-- MySQL Workbench
-- GitHub
+👉 **Check out the SQL projects in this repository, explore the queries, and see how SQL is used to extract meaningful insights from data.**
